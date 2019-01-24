@@ -1,0 +1,82 @@
+@charset "UTF-8";
+
+.hidden
+{
+	display: none;
+}
+
+#mainHeader
+{
+	font-size: 50px;
+}
+
+#pencil
+{
+	width: 200px;
+	height: 200px;
+	margin: -40px -40px -80px -40px;
+}
+
+#eraser
+{
+	width: 300px;
+	height: 300px;
+	margin: -80px -80px -80px -80px;
+}
+
+#sharpener
+{
+	width: 100px;
+	height: 100px;
+	margin: -10px -10px 10px 10px;
+}  
+
+#scale
+{
+	width: 200px;
+	height: 200px;
+	margin: -40px -40px -80px -40px;
+}
+
+#pin
+{
+	width: 200px;
+	height: 200px;
+	margin: -40px -40px -80px -40px;
+}
+
+#stapler
+{
+	width: 200px;
+	height: 200px;
+	margin: -40px -40px -60px -40px;
+}
+
+#adhesive_tape
+{
+	width: 100px;
+	height: 100px;
+	margin: -10px -10px -10px 10px;
+}
+
+#stamp
+{
+	width: 100px;
+	height: 100px;
+	margin: -10px -10px -10px 10px;
+}
+
+#cutter
+{
+	width: 200px;
+	height: 200px;
+	margin: -40px -40px -40px -40px;
+}
+
+#notes
+{
+	width: 200px;
+	height: 200px;
+	margin: -40px -40px -80px -40px;
+}
+
