@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" id="Sharpener" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 460 460" style="enable-background:new 0 0 460 460;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#FF5959;}
@@ -10,12 +10,27 @@
 	.st4{fill:#808080;}
 	.st5{fill:#404040;}
 
-	#Layer_2:hover .st0 { fill:#591344; }
+	#Sharpener:hover .st0 { fill:#591344; }
 
 	<!-- @media screen and  (max-width: 800px){
 		.st4, .st5 { display: none; }
 	} -->
 </style>
+
+<defs>
+	<script>
+		let theObject = document.querySelector("#Sharpener");
+
+		function logThisObject() {
+			console.log(this.id);
+		}
+
+		theObject.addEventListener("click", logThisObject);
+	</script>
+</defs>
+
+
+
 <path class="st0" d="M42.3,0l375.3,0v119.3c0,0-53.6,27.1-51.8,110.7s46.4,109.8,51.8,110.7l0,119.3H42.3l0-119.3
 	c0,0,52.9-25.7,51.8-110.7c0,0,5.6-76.5-51.8-110.7L42.3,0z"/>
 <rect x="137.4" y="37.9" class="st1" width="52.6" height="384.1"/>
