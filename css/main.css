@@ -8,88 +8,97 @@
 .container 
 { 
 	width: 100%;
-/*	display: flex;
-	flex-direction: row;
-	justify-content: space-between; */
 }
 
 
 #mainHeader
 {
-	font-size: 25px;
+	font-size: 36px;
 	text-align: center;
-	font-color: ##12235C;
+	color: #FF2E2B;
+	font-weight: bold;
 }
 
-#pencil
+.container h3
 {
-	width: 200px;
-	height: 200px;
-	margin: -40px -40px -80px -40px;
-	display: block;
+	font-size: 30px;
+	margin: 10px;
+	font-weight: bold;
+	text-align: center;
+	color: #EB6A9B;
 }
 
-#eraser
+.container p 
 {
-	width: 300px;
-	height: 300px;
-	margin: -80px -80px -80px -80px;
-	display: block;
+	font-size: 24px;
+	color: #15ABFF;
+	text-align: center;
 }
 
-#sharpener
+#bread
 {
 	width: 100px;
 	height: 100px;
-	margin: -10px -10px 10px 10px;
+	margin: 20px 40px 40px 46%;
+	display: block;
+	
+}
+
+#cake
+{
+	width: 100px;
+	height: 100px;
+	margin: 20px 40px 40px 46%;
+	display: block;
+}
+
+#choclate
+{
+	width: 100px;
+	height: 100px;
+	margin: 20px 40px 40px 46%;
 }  
 
-#scale
-{
-	width: 200px;
-	height: 200px;
-	margin: -40px -40px -80px -40px;
-}
-
-#pin
-{
-	width: 200px;
-	height: 200px;
-	margin: -40px -40px -80px -40px;
-}
-
-#stapler
-{
-	width: 200px;
-	height: 200px;
-	margin: -40px -40px -60px -40px;
-}
-
-#adhesive_tape
+#coffee
 {
 	width: 100px;
 	height: 100px;
-	margin: -10px -10px -10px 10px;
+	margin: 20px 40px 40px 46%;
 }
 
-#stamp
+#cone
 {
 	width: 100px;
 	height: 100px;
-	margin: -10px -10px -10px 10px;
+	margin: 20px 40px 40px 46%;
 }
 
-#cutter
+#cookie
 {
-	width: 200px;
-	height: 200px;
-	margin: -40px -40px -40px -40px;
+	width: 100px;
+	height: 100px;
+	margin: 20px 40px 40px 46%;
 }
 
-#notes
+#cup
 {
-	width: 200px;
-	height: 200px;
-	margin: -40px -40px -80px -40px;
+	width: 100px;
+	height: 100px;
+	margin: 20px 40px 40px 46%;
 }
+
+#donut
+{
+	width: 100px;
+	height: 100px;
+	margin: 20px 40px 40px 46%;
+}
+
+#kettle
+{
+	width: 100px;
+	height: 100px;
+	margin: 20px 40px 40px 46%;
+}
+
 
